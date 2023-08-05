@@ -1,0 +1,36 @@
+[31-Jul-2023 05:42:04 UTC] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:42:04 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:42:04 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:42:04 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:43:11 UTC] PHP Warning:  include(/header.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:43:11 UTC] PHP Warning:  include(): Failed opening '/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:43:11 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:43:11 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:44:58 UTC] PHP Warning:  include(/header.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:44:58 UTC] PHP Warning:  include(): Failed opening '/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:44:58 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:44:58 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:45:29 UTC] PHP Warning:  include(/header.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:45:29 UTC] PHP Warning:  include(): Failed opening '/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:45:29 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:45:29 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:47:33 UTC] PHP Warning:  include(http:/myurls top/header.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:47:33 UTC] PHP Warning:  include(): Failed opening 'http:/myurls top/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:47:33 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:47:33 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:48:31 UTC] PHP Warning:  include(http:/myurls.top/header.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:48:31 UTC] PHP Warning:  include(): Failed opening 'http:/myurls.top/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 1
+[31-Jul-2023 05:48:31 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:48:31 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:49:46 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:49:46 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/ts.php on line 23
+[31-Jul-2023 05:59:50 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/s/as.php on line 24
+[31-Jul-2023 05:59:50 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/s/as.php on line 24
+[31-Jul-2023 05:59:58 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/s/as.php on line 24
+[31-Jul-2023 05:59:58 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/s/as.php on line 24
+[31-Jul-2023 06:00:03 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/s/ts.php on line 23
+[31-Jul-2023 06:00:03 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/s/ts.php on line 23
+[31-Jul-2023 06:00:58 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/s/as.php on line 24
+[31-Jul-2023 06:00:58 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/s/as.php on line 24
+[31-Jul-2023 06:01:07 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/amarbn/public_html/myurls.top/c/s/gtv.php on line 23
+[31-Jul-2023 06:01:07 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/amarbn/public_html/myurls.top/c/s/gtv.php on line 23
